@@ -1,0 +1,41 @@
+.profile{
+    margin: auto;
+    margin-top: 30px;
+    padding: 0px;
+    width: 20%;
+    height: 100%;
+    /* border: 2px solid skyblue; */
+    box-shadow: 5px 5px 5px 5px #ccc;
+    text-align: center;
+    /* display: flex;
+    flex-direction: column;
+    justify-content: center ; */
+}
+
+.profile >img{
+  width: 50%;
+  height: 20%;
+  border-radius: 50%;
+  border: 2px solid skyblue;
+  margin-top: 20px;
+}
+
+.profile h3{
+    margin: 0px;
+    padding: 4px;
+}
+
+.profile p{
+    margin: 0px;
+    padding: 3px;
+}
+
+.profile h2{
+    margin: 0px;
+  
+}
+
+.butn{
+    margin-bottom: 20px;
+    margin-top: 20px;
+}
